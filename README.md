@@ -9,8 +9,11 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Aluno1](github.com/aluno1)
-- [Aluno2](github.com/aluno2)
+- [Ana Clara Fidêncio Silva]([https://github.com/AnaFidencio])
+- [Eduardo Kons]([github.com/aluno2](https://github.com/Edukons))
+- [Guilherme Eduardo Passos](https://github.com/guilhermepassos1)
+- [Laíssa Mendes](https://github.com/laissamendes)
+- [Maria Eduarda Cardozo](https://github.com/Dudinhacardozo)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
