@@ -22,7 +22,7 @@ Equipe:
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](https://github.com/laissamendes/PI-2024-raizesDigitais.git)
+-   [Documentação](https://github.com/laissamendes/PI-2024-raizesDigitais.git)
 -   Backend: [Repositório](https://github.com/laissamendes/pi-backend.git) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/laissamendes/pi-frontend.git) e [Publicação](https://pi-frontend.herokuapp.com/)
 
