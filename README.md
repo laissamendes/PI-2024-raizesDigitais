@@ -14,8 +14,8 @@ Assim, o projeto Raízes Digitais não só simplificará o dia-a-dia dos morador
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Ana Clara Fidêncio Silva]([https://github.com/AnaFidencio])
-- [Eduardo Kons]((https://github.com/Edukons))
+- [Ana Clara Fidêncio Silva](https://github.com/AnaFidencio)
+- [Eduardo Kons](https://github.com/Edukons)
 - [Guilherme Eduardo Passos](https://github.com/guilhermepassos1)
 - [Laíssa Mendes](https://github.com/laissamendes)
 - [Maria Eduarda Cardozo](https://github.com/Dudinhacardozo)
