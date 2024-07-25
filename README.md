@@ -6,7 +6,7 @@ Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a In
 *O projeto Raízes Digitais tem o intuito de facilitar a vivencia dos moradores da aldeia X. Tendo um cadastro de suas principais necessidades, desde identificação pessoal até o cadastro das moradias presentes na região.
 Serão realizadas as digitalizações e o armazenamento dos documentos individuais dos residentes.
 Na aplicação, além do cadastro de cada animal, terá o prontuário dos animais que estiverem necessitando de cuidados, sendo assim, o projeto estará integrado com o curso de Medicina Veterinária do IFC - Campus Araquari.
-A proposta estará também associada à Pastoral Indígenista por meio de notificações que poderão ser enviadas em caso de emergência. 
+A proposta estará também associada à Pastoral Indígenista para que os seus trabalhos também sejam facilitados. 
 Assim, o projeto Raízes Digitais não só simplificará o dia-a-dia dos moradores da aldeia X, mas também fortalecerá os laços com instituições externas, garantindo um futuro mais seguro e conectado para todos.*
 
 **Projeto**: [**Raízes Digitais**](https://github.com/laissamendes/PI-2024-raizesDigitais.git).
@@ -21,7 +21,7 @@ Equipe:
 - [Maria Eduarda Cardozo](https://github.com/Dudinhacardozo)
 
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
+
 -   [Documentação](https://github.com/laissamendes/PI-2024-raizesDigitais.git)
 -   Backend: [Repositório](https://github.com/laissamendes/pi-backend.git) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/laissamendes/pi-frontend.git) e [Publicação](https://pi-frontend.herokuapp.com/)
@@ -50,22 +50,22 @@ Links do projeto:
 
 # 2. Situação Problema
 
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
+-   **Introdução**: O Projeto Raízes Digitais foi idealizado pelos professores Alessandra Klug e Marco Antônio Rojas e se tornará real com a ajuda e o desenpenho dos alunos presentes na equipe, Ana Clara Fidêncio Silva, Eduardo Kons, Guilherme Eduardo Passos, Laíssa Mendes e Maria Eduarda Cardozo;
+-   **Situação-problema**: O sistema funcionrá como uma ajuda à aldeia para identificação das pessoas, animais doentes e moradias, pois antes da ideia, era responsabilidade de apenas uma pessoa lembrar de todas as informações necessárias.
+-   **Conclusão**: Portanto o projeto será um meio de grande ajuda para todos os moradores da aldeia, pois com ele as informações serão de fácil acesso parta todos, tanto os moradores quanto a equipe da Pastoral Indígena.
 
 # 3. Descrição da proposta
 
 
 **Alguns pontos importantes a se destacar são:**
 
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
-
+-   **Qual o foco de ação do software**: Relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
+-   **Os níveis de usuário do sistema**: Apenas o Pagé terá acesso, pois serão dados pessoais que estarão no sistema, e caso seja necessário o compartilhamento de dados, será responsabilidade dele.
+-   **O que poderá ser feito no software**: Acessar as telas de "Pessoa" que terão as informações pessoais de cada uma delas; "Moradias" com as informações das casas e "Animais" com os prontuários e dados de cada um (todas as páginas terão uma aba para que sejão adcionadas novas informações.
+-   
 # 4. Modelagem de Dados
+
+![image](https://github.com/user-attachments/assets/2d7ace44-7315-4dbe-9ed0-35efd6eaeac7)
 
 
 <!--
